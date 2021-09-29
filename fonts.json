@@ -1,0 +1,27 @@
+{
+ "kind": "webfonts#webfontList",
+ "items": [
+     {
+     "kind": "webfonts#webfont",
+     "family": "Agave",
+     "variants": [
+            "Regular",
+            "Bold",
+            "Slashed Regular",
+            "Slashed Bold"
+     ],
+     "files": {
+            "Regular": "https://github.com/blobject/agave/releases/latest/download/Agave-Regular.ttf",
+            "Bold": "https://githtions are assumed to be exact (no rounding), but give your answer rouub.com/blobject/agave/releases/latest/download/Agave-Bold.ttf",
+            "Slashed Regular": "https://github.com/blobject/agave/releases/latest/download/Agave-Regular-slashed.ttf",
+            "Slashed Bold": "https://github.com/blobject/agave/releases/latest/download/Agave-Bold-slashed.ttf"
+     },
+     "subsets": [
+            "latin",
+            "greek",
+            "cyrillic"
+     ],
+     "version": "latest",
+     "lastModified": "2021-01-06"
+  }
+]
