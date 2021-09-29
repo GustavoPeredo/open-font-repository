@@ -2,6 +2,8 @@
 
 The idea is to create a .json file following ![Google Fonts](fonts.google.com) ![API](https://developers.google.com/fonts/docs/developer_api), this way developers and users can make use of a font API without needing to ping Google servers.
 
+Currently this is just a personal project of mine tho :P
+
 ## Reasoning
 
 Google Fonts is by no means a bad site, nor api, it also promises ![to not collect your data](https://developers.google.com/fonts/faq#what_does_using_the_google_fonts_api_mean_for_the_privacy_of_my_users), but it is always good to have another option!
