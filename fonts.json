@@ -23,6 +23,114 @@
        ],
        "version": "latest",
        "lastModified": "2021-01-06"
-     }
+     },
+     {
+       "kind": "webfonts#webfont",
+       "family": "Cascadia Code",
+       "variants": [
+              "Bold",
+              "ExtraLight",
+              "Light",
+              "Regular",
+              "SemiBold",
+              "SemLight"
+       ],
+       "files": {
+              "Bold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCode-Bold.otf",
+              "ExtraLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCode-ExtraLight.otf",
+              "Light": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCode-Light.otf",
+              "Regular": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCode-Regular.otf",
+              "SemiBold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCode-SemiBold.otf",
+              "SemLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCode-SemiLight.otf"
+       },
+       "subsets": [
+              "latin",
+              "greek",
+              "cyrillic"
+       ],
+       "version": "latest",
+       "lastModified": "2021-05-01"
+     },
+     {
+       "kind": "webfonts#webfont",
+       "family": "Cascadia Code PL",
+       "variants": [
+              "Bold",
+              "ExtraLight",
+              "Light",
+              "Regular",
+              "SemiBold",
+              "SemLight"
+       ],
+       "files": {
+              "Bold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-Bold.otf",
+              "ExtraLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-ExtraLight.otf",
+              "Light": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-Light.otf",
+              "Regular": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-Regular.otf",
+              "SemiBold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-SemiBold.otf",
+              "SemLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-SemiLight.otf"
+       },
+       "subsets": [
+              "latin",
+              "greek",
+              "cyrillic"
+       ],
+       "version": "latest",
+       "lastModified": "2021-05-01"
+     },
+     {
+       "kind": "webfonts#webfont",
+       "family": "Cascadia Mono",
+       "variants": [
+              "Bold",
+              "ExtraLight",
+              "Light",
+              "Regular",
+              "SemiBold",
+              "SemLight"
+       ],
+       "files": {
+              "Bold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-Bold.otf",
+              "ExtraLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-ExtraLight.otf",
+              "Light": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-Light.otf",
+              "Regular": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-Regular.otf",
+              "SemiBold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-SemiBold.otf",
+              "SemLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-SemiLight.otf"
+       },
+       "subsets": [
+              "latin",
+              "greek",
+              "cyrillic"
+       ],
+       "version": "latest",
+       "lastModified": "2021-05-01"
+     },
+     {
+       "kind": "webfonts#webfont",
+       "family": "Cascadia MonoPL",
+       "variants": [
+              "Bold",
+              "ExtraLight",
+              "Light",
+              "Regular",
+              "SemiBold",
+              "SemLight"
+       ],
+       "files": {
+              "Bold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-Bold.otf",
+              "ExtraLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-ExtraLight.otf",
+              "Light": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-Light.otf",
+              "Regular": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-Regular.otf",
+              "SemiBold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-SemiBold.otf",
+              "SemLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-SemiLight.otf"
+       },
+       "subsets": [
+              "latin",
+              "greek",
+              "cyrillic"
+       ],
+       "version": "latest",
+       "lastModified": "2021-05-01"
+     },
   ]
 }
