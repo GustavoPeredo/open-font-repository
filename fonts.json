@@ -65,22 +65,34 @@
      },
      {
        "kind": "webfonts#webfont",
-       "family": "Cascadia Code PL",
+       "family": "Cascadia CodePL",
        "variants": [
               "Bold",
+              "BoldItalic",
               "ExtraLight",
+              "ExtraLightItalic",
+              "Italic",
               "Light",
+              "LightItalic",
               "Regular",
               "SemiBold",
-              "SemLight"
+              "SemiBoldItalic",
+              "SemiLight",
+              "SemiLightItalic"
        ],
        "files": {
-              "Bold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-Bold.otf",
-              "ExtraLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-ExtraLight.otf",
-              "Light": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-Light.otf",
-              "Regular": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-Regular.otf",
-              "SemiBold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-SemiBold.otf",
-              "SemLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaCodePL-SemiLight.otf"
+              "Bold": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-Bold.otf",
+              "BoldItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-BoldItalic.otf",
+              "ExtraLight": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-ExtraLight.otf",
+              "ExtraLightItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-ExtraLightItalic.otf",
+              "Italic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-Italic.otf",
+              "Light": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-Light.otf",
+              "LightItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-LightItalic.otf",
+              "Regular": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-Regular.otf",
+              "SemiBold": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-SemiBold.otf",
+              "SemiBoldItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-SemiBoldItalic.otf",
+              "SemiLight": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-SemiLight.otf",
+              "SemiLightItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaCodePL-SemiLightItalic.otf"
        },
        "subsets": [
               "latin",
@@ -95,19 +107,31 @@
        "family": "Cascadia Mono",
        "variants": [
               "Bold",
+              "BoldItalic",
               "ExtraLight",
+              "ExtraLightItalic",
+              "Italic",
               "Light",
+              "LightItalic",
               "Regular",
               "SemiBold",
-              "SemLight"
+              "SemiBoldItalic",
+              "SemiLight",
+              "SemiLightItalic"
        ],
        "files": {
-              "Bold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-Bold.otf",
-              "ExtraLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-ExtraLight.otf",
-              "Light": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-Light.otf",
-              "Regular": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-Regular.otf",
-              "SemiBold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-SemiBold.otf",
-              "SemLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMono-SemiLight.otf"
+              "Bold": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-Bold.otf",
+              "BoldItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-BoldItalic.otf",
+              "ExtraLight": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-ExtraLight.otf",
+              "ExtraLightItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-ExtraLightItalic.otf",
+              "Italic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-Italic.otf",
+              "Light": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-Light.otf",
+              "LightItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-LightItalic.otf",
+              "Regular": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-Regular.otf",
+              "SemiBold": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-SemiBold.otf",
+              "SemiBoldItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-SemiBoldItalic.otf",
+              "SemiLight": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-SemiLight.otf",
+              "SemiLightItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMono-SemiLightItalic.otf"
        },
        "subsets": [
               "latin",
@@ -122,19 +146,31 @@
        "family": "Cascadia MonoPL",
        "variants": [
               "Bold",
+              "BoldItalic",
               "ExtraLight",
+              "ExtraLightItalic",
+              "Italic",
               "Light",
+              "LightItalic",
               "Regular",
               "SemiBold",
-              "SemLight"
+              "SemiBoldItalic",
+              "SemiLight",
+              "SemiLightItalic"
        ],
        "files": {
-              "Bold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-Bold.otf",
-              "ExtraLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-ExtraLight.otf",
-              "Light": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-Light.otf",
-              "Regular": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-Regular.otf",
-              "SemiBold": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-SemiBold.otf",
-              "SemLight": "https://www.fontmirror.com/app_public/files/t/1/2021/05/CascadiaMonoPL-SemiLight.otf"
+              "Bold": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-Bold.otf",
+              "BoldItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-BoldItalic.otf",
+              "ExtraLight": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-ExtraLight.otf",
+              "ExtraLightItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-ExtraLightItalic.otf",
+              "Italic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-Italic.otf",
+              "Light": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-Light.otf",
+              "LightItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-LightItalic.otf",
+              "Regular": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-Regular.otf",
+              "SemiBold": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-SemiBold.otf",
+              "SemiBoldItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-SemiBoldItalic.otf",
+              "SemiLight": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-SemiLight.otf",
+              "SemiLightItalic": "https://github.com/GustavoPeredo/open-font-repository/raw/main/Cascadia/CascadiaMonoPL-SemiLightItalic.otf"
        },
        "subsets": [
               "latin",
